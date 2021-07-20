@@ -1,7 +1,7 @@
 
 # web-scraping-dictionary
 
----
+
 
 ---
 
@@ -11,7 +11,7 @@ https://www.lexico.com
 
 ---
 
----
+
 
 
 
