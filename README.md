@@ -9,7 +9,7 @@ https://www.lexico.com
 
 ---
 
-***
+
 
 <!---
 ![1](https://user-images.githubusercontent.com/79875767/126273408-96951cf5-cc3b-40f4-8f1a-b886f2a35e3a.png)
@@ -37,6 +37,8 @@ main def
   <img src="https://user-images.githubusercontent.com/79875767/126310936-9266e5c8-bbb7-441d-a23c-599a1fb9a76a.png" height=500/>
   <img src="https://user-images.githubusercontent.com/79875767/126310939-90a7a720-af2f-482d-ac36-113c031a6aa0.png" height=500/>
 </p>
+
+---
 
 **Extracted data in a table:**
 
