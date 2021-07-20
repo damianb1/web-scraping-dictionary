@@ -28,7 +28,7 @@ main def
   <img src="https://user-images.githubusercontent.com/79875767/126310939-90a7a720-af2f-482d-ac36-113c031a6aa0.png" height=500/>
 </p>
 
-Extracted data in a table:
+**Extracted data in a table:**
 
 ![early_late_df](https://user-images.githubusercontent.com/79875767/126311195-43fc8a2f-3a09-4254-88c6-faa94b808a77.png)
 
