@@ -35,7 +35,7 @@ main def
 
 <br><br>
 
-**Examples**
+**Example**
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/79875767/126310936-9266e5c8-bbb7-441d-a23c-599a1fb9a76a.png" height=500/>
