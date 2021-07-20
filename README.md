@@ -5,7 +5,7 @@
 
 ---
 
-<h3>Web scraping examples. The data is downloaded from an online English dictionary.</h3>
+Web scraping examples. The data is downloaded from an online English dictionary.
 
 https://www.lexico.com
 
