@@ -1,6 +1,6 @@
 # web-scraping-dictionary
 
-This notebook shows web scraping examples. The data is extracted from an online English dictionary.
+Web scraping examples. The data is extracted from an online English dictionary.
 
 https://www.lexico.com
 
