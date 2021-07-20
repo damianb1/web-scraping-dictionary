@@ -1,3 +1,5 @@
+![early](https://user-images.githubusercontent.com/79875767/126310936-9266e5c8-bbb7-441d-a23c-599a1fb9a76a.png)
+![late](https://user-images.githubusercontent.com/79875767/126310939-90a7a720-af2f-482d-ac36-113c031a6aa0.png)
 # web-scraping-dictionary
 
 Web scraping examples. The data is downloaded from an online English dictionary.
